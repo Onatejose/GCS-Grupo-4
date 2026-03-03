@@ -1,7 +1,6 @@
 
 
 # Tabla de Contenido
-
 1. [Introducción](#introducción)
 2. [Requerimientos Funcionales](#requerimientos-funcionales)
 
