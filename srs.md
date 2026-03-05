@@ -27,6 +27,8 @@
 Este documento presenta los requerimientos funcionales y no funcionales del sistema de gestión de cursos desarrollado por el Grupo 4. Su objetivo es definir de manera clara las funcionalidades principales que deberá ofrecer la plataforma, así como las condiciones de calidad que debe cumplir. Los requerimientos se describen mediante historias de usuario y criterios de aceptación que permiten validar el correcto funcionamiento del sistema.
 
 ---
+
+# GCS-Grupo-4
 # Requerimientos Funcionales
 
 ---
@@ -48,6 +50,11 @@ Como visitante quiero registrarme como estudiante para acceder a los cursos disp
 ### HU-02 – Inscripción a Curso
 
 Como estudiante quiero inscribirme en un curso disponible para acceder al contenido académico
+## RF-02 Inscripción a Curso
+
+### HU-02 – Inscripción a Curso
+
+Como estudiante quiero inscribirme en un curso disponible para acceder al contenido académico
 
 ### Criterios de Aceptación
 
@@ -60,6 +67,7 @@ Como estudiante quiero inscribirme en un curso disponible para acceder al conten
 El sistema debe permitir que los estudiantes inscritos en un curso carguen y envíen archivos correspondientes a una tarea asignada, dentro del plazo establecido por el docente.
 
 ### HU-03 – Subir Tarea
+Como estudiante inscrito en un curso quiero subir un archivo como entrega de una tarea para que el docente pueda evaluarlo.
 
 Como estudiante inscrito en un curso quiero subir un archivo como entrega de una tarea para que el docente pueda evaluarlo.
 
@@ -92,6 +100,7 @@ El sistema debe garantizar una experiencia de usuario intuitiva y eficiente, per
 - La interfaz debe mantener consistencia visual y de navegación en todas las secciones.
 - El usuario debe poder regresar a pasos anteriores sin perder la información ingresada.
 
+
 ### RNF-02 – Disponibilidad
 
 El sistema debe estar disponible las 24 horas del día, los 7 días de la semana (24/7), garantizando acceso continuo a estudiantes y docentes.
@@ -110,4 +119,5 @@ El sistema debe estar disponible las 24 horas del día, los 7 días de la semana
 | HU-01 | RF-01 | Verificar que el estudiante pueda registrarse con un correo válido y único                  | Pendiente |
 | HU-02 | RF-02 | Verificar que un estudiante pueda inscribirse si hay cupos disponibles                      | Pendiente |
 | HU-03 | RF-03 | Verificar que el estudiante pueda subir tarea en formato permitido antes de la fecha límite | Pendiente |
+---
 
