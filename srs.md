@@ -1,5 +1,5 @@
-# GCS-Grupo-4
 
+# GCS-Grupo-4
 # Requerimientos Funcionales
 
 ---
@@ -19,6 +19,19 @@ Como visitante quiero registrarme como estudiante para acceder a los cursos disp
 
 ---
 
+## RF-02 Inscripción a Curso
+
+### HU-02 – Inscripción a Curso
+
+Como estudiante quiero inscribirme en un curso disponible para acceder al contenido académico
+
+### Criterios de Aceptación
+
+* Debe haber cupos disponibles antes de permitir la inscripción.
+* El sistema debe confirmar la inscripción.
+* El curso debe aparecer en la lista de cursos del estudiante.
+
+
 ### RF-03 – Subir Tarea
 
 El sistema debe permitir que los estudiantes inscritos en un curso carguen y envíen archivos correspondientes a una tarea asignada, dentro del plazo establecido por el docente.
@@ -27,10 +40,7 @@ El sistema debe permitir que los estudiantes inscritos en un curso carguen y env
 
 ### HU-03 – Subir Tarea
 
-**Como** estudiante inscrito en un curso  
-**quiero** subir un archivo como entrega de una tarea  
-**para** que el docente pueda evaluarlo.
-
+Como estudiante inscrito en un curso quiero subir un archivo como entrega de una tarea para que el docente pueda evaluarlo.
 
 
 #### Descripción:
